@@ -34,6 +34,10 @@ header.startup h1 {
   font-size: 2rem; 
 }
 
+#mc_embed_signup_scroll{
+  text-align: center!important;
+}
+
 .btn {
   font-weight: 700;
   text-transform: uppercase;
@@ -57,7 +61,3 @@ header.startup h1 {
   cursor: pointer;
 }
 
-.my-auto{
-
-  text-align: center;
-}
